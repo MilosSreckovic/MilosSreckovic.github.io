@@ -1,3 +1,4 @@
+
 const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 
@@ -23,6 +24,10 @@ const ciProjects = [
   {
     elementId: 'selenium-ci-status',
     repository: 'MilosSreckovic/AutomationExerciseForSokin-CsharpSeleniumNunit'
+  },
+  {
+    elementId: 'jmeter-ci-status',
+    repository: 'MilosSreckovic/jmeter-performance-framework'
   }
 ];
 
