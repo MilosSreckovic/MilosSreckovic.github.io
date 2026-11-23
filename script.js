@@ -21,10 +21,10 @@ const ciProjects = [
     elementId: 'playwright-ci-status',
     repository: 'MilosSreckovic/QA-Automation-Exercise'
   },
-  {
-    elementId: 'selenium-ci-status',
-    repository: 'MilosSreckovic/AutomationExerciseForSokin-CsharpSeleniumNunit'
-  },
+{
+  elementId: 'playwright-ci-status',
+  repository: 'MilosSreckovic/qa-automation-exercise-typeScript-playwright'
+},
   {
     elementId: 'jmeter-ci-status',
     repository: 'MilosSreckovic/jmeter-performance-framework'
