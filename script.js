@@ -19,12 +19,12 @@ document.getElementById('year').textContent = new Date().getFullYear();
 const ciProjects = [
   {
     elementId: 'playwright-ci-status',
-    repository: 'MilosSreckovic/QA-Automation-Exercise'
+    repository: 'MilosSreckovic/qa-automation-exercise-typeScript-playwright'
   },
-{
-  elementId: 'playwright-ci-status',
-  repository: 'MilosSreckovic/qa-automation-exercise-typeScript-playwright'
-},
+  {
+    elementId: 'selenium-ci-status',
+    repository: 'MilosSreckovic/selenium-csharp-nunit-framework'
+  },
   {
     elementId: 'jmeter-ci-status',
     repository: 'MilosSreckovic/jmeter-performance-framework'
